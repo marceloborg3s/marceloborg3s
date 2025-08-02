@@ -7,7 +7,7 @@
   
 <div align="left"  width="41%">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f27a37&size=17&center=true&vCenter=true&lines=Hi,+My+name+is+Marcelo+Borges+;I'm+23+years+old;I'm+live+in+Mariana+Minas+Gerais;I+Graduated+Systems+Analysis+Development;Be+Welcome!+🤘🏻)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f27a37&size=17&center=true&vCenter=true&lines=Hi,+My+name+is+Marcelo+Borges+;I'm+25+years+old;I'm+live+in+Mariana+Minas+Gerais;I+Graduated+Systems+Analysis+Development;Be+Welcome!+🤘🏻)](https://git.io/typing-svg)
   
   <h1 align="left"></h1>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=marceloborg3s&color=orange" alt="Profile views" /> </p>
@@ -15,7 +15,7 @@
     
   - 🔥 Web Developer
 
-  - 🔭 I’m currently working at [MCA Audit and Management Ltd.](https://www.mca.srv.br/site/)
+  - 🔭 I’m currently working at [Progesys Internetional](https://progesys.com/)
 
   - 💬 Ask me about **Node.JS, JavaScript, HTML, CSS, Tailwind, Sass, MongoDB, PostgreSQL**
   
